@@ -13,4 +13,8 @@ body {
     box-sizing: border-box;
     font-family: $font;
     background-color: $Light-gray;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
 }
