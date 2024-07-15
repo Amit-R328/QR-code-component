@@ -1,0 +1,16 @@
+@import 'variables.scss';
+
+html, h1, figure, figcaption, p{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: $font;
+    background-color: $Light-gray;
+}
